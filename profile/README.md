@@ -63,7 +63,7 @@
 <tr>
     <td align="center"><a href="https://github.com/Jeongminyooa"><img src="https://github.com/Jeongminyooa.png" width="100px;" alt=""/><br /><sub><b>유정민(BE)</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/0standing2"><img src="https://github.com/0standing2.png" width="100px;" alt=""/><br /><sub><b>윤서영(BE)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Woojung0618"><img src="https://github.com/Woojung0618.png" width="100px;" alt=""/><br /><sub><b>전우정(Mobile)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Woojung0618"><img src="https://github.com/Woojung0618.png" width="100px;" alt=""/><br /><sub><b>전우정(APP)</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/SeryeongK"><img src="https://github.com/SeryeongK.png" width="100px;" alt=""/><br /><sub><b>김세령(Web FE)</b></sub></a><br /></td>
 <tr>
 </table>
